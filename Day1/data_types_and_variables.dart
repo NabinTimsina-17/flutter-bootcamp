@@ -16,5 +16,4 @@ void main(){
    print(myName);
    print(height);
    print(isRaining);
-
 }
