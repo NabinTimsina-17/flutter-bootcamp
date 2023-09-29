@@ -5,7 +5,7 @@ void main(){
   // In this example the value 18 is integer and age contains the value 18 and is called variable and that variable should be integer type to store that integer value
   double salary = 8848.48;
   // In tis example, the double data type is shown with its floating value.
-  String name = "Nabin Timsina";
+  String myName = "Nabin Timsina";
    
    num height = 5.32 ;
 
@@ -13,7 +13,7 @@ void main(){
 
    print(age);
    print(salary);
-   print("name");
+   print(myName);
    print(height);
    print(isRaining);
 
