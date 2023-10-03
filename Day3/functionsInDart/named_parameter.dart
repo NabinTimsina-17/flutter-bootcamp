@@ -3,6 +3,6 @@ void printInfo({String? name,String? gender}){
 }
  
  void main(){
-  printInfo(gender: "Male", name: "Nabin Timsina");
+  printInfo(gender: "Male", name: "Hojn");
   printInfo(gender: "Female", name: "Kavya");
  }
