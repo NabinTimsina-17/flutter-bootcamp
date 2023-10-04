@@ -5,5 +5,4 @@ void main(){
 
 print("Generated Random double value is: $randomDouble");
 print("Generated Random bool value is: $randomBool");
-
 }
