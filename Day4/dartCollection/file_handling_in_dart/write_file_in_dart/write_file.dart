@@ -1,5 +1,4 @@
 import 'dart:io';
-
 void main() async {
   // open file
   File file = File('test.txt');
