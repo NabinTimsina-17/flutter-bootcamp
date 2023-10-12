@@ -5,10 +5,10 @@ class Student{
 
   // Default Constructor
   Student(){
-    print("This is a ddefault constructor");
+    print("This is a default constructor");
   }
 
-  // Named Constructor 
+  // Named Constructor
   Student.namedConstructor(String name,int age, int rollNumber){
   this.name = name;
   this.age = age;
