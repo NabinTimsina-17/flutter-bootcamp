@@ -1,4 +1,4 @@
-import 'Day6/oops/constructor3.dart';
+import '../../Day6/oops/constructor3.dart';
 
 class Customer{
   final String? name;
